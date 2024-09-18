@@ -1,4 +1,6 @@
-This repository contains two versions of a network packet sniffer.
+This repository contains two versions of a network packet sniffer written in python programming language for Windows users.
+For the successful running of the code, install Npcap from Npcap website (https://nmap.org/npcap/)
+and scapy using the command "pip install scapy" in command prompt.
 
 Version 1: CodeAlpha_Network_Packet_Sniffer.py
 
